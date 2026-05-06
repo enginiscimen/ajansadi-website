@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F4F1EA"/>
+  <text x="80" y="320" font-family="Times New Roman, serif" font-size="120" fill="#0A0A0A" letter-spacing="-3">
+    Markaları <tspan font-style="italic" fill="#0A0A0A">büyüten.</tspan>
+  </text>
+  <rect x="80" y="350" width="180" height="14" fill="#C8DC36"/>
+  <text x="80" y="450" font-family="Inter, sans-serif" font-size="34" fill="#5A5A55">
+    Dijital pazarlama · SEO · Google Ads · Sosyal medya · Yapay zekâ · Medya satın alma
+  </text>
+  <text x="80" y="560" font-family="Times New Roman, serif" font-style="italic" font-size="48" fill="#0A0A0A">
+    ajansadı<tspan fill="#C8DC36">.</tspan>
+  </text>
+</svg>
