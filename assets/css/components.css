@@ -597,6 +597,12 @@
   z-index: 9999;
   mix-blend-mode: difference;
   display: none;
+  opacity: 0;
+  transition: opacity 180ms var(--easing);
+}
+
+.cursor.is-hover {
+  opacity: 1;
 }
 
 .cursor__ring {
