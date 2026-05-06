@@ -167,14 +167,35 @@ p {
 em,
 .italic {
   font-style: italic;
+}
+
+.display em,
+.h1 em,
+.h2 em,
+.h3 em,
+h1 em,
+h2 em,
+h3 em,
+h4 em,
+.display .italic,
+.h1 .italic,
+.h2 .italic,
+.h3 .italic {
   font-family: var(--font-serif);
 }
 
 .accent-mark {
   position: relative;
   font-style: italic;
-  font-family: var(--font-serif);
   white-space: nowrap;
+}
+
+.display .accent-mark,
+.h1 .accent-mark,
+.h2 .accent-mark,
+h1 .accent-mark,
+h2 .accent-mark {
+  font-family: var(--font-serif);
 }
 
 .accent-mark::after {
